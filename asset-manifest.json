@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fkad-portfolio/static/css/main.4f59441a.css",
+    "main.js": "/fkad-portfolio/static/js/main.4285784a.js",
+    "static/js/787.a2cb61a6.chunk.js": "/fkad-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/online-library.png": "/fkad-portfolio/static/media/online-library.30491f224f409a94b98a.png",
+    "static/media/Deja-brew.png": "/fkad-portfolio/static/media/Deja-brew.86ca486086f99d501a12.png",
+    "static/media/ci-paws.png": "/fkad-portfolio/static/media/ci-paws.d7d1bbf1aaff5dcbaccf.png",
+    "static/media/health.png": "/fkad-portfolio/static/media/health.10a9ac753e12859ec1f2.png",
+    "static/media/online-book-store.png": "/fkad-portfolio/static/media/online-book-store.c945c9949c1d3c79096a.png",
+    "static/media/Frances_Resume.pdf": "/fkad-portfolio/static/media/Frances_Resume.5f4e9204fab4ff3ee4e2.pdf",
+    "static/media/fkad.jpg": "/fkad-portfolio/static/media/fkad.62f50eb4fbf3d92a7001.jpg",
+    "static/media/my-logo.png": "/fkad-portfolio/static/media/my-logo.52eadfe46c6d8312da38.png",
+    "static/media/expressjs.png": "/fkad-portfolio/static/media/expressjs.e3d4f9e5c8b469e45838.png",
+    "index.html": "/fkad-portfolio/index.html",
+    "main.4f59441a.css.map": "/fkad-portfolio/static/css/main.4f59441a.css.map",
+    "main.4285784a.js.map": "/fkad-portfolio/static/js/main.4285784a.js.map",
+    "787.a2cb61a6.chunk.js.map": "/fkad-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f59441a.css",
+    "static/js/main.4285784a.js"
+  ]
+}
